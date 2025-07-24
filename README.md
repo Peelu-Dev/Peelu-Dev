@@ -72,14 +72,14 @@ I’m an aspiring neuroscientist and interdisciplinary researcher with a unique 
 
 ---
 
-## 💼 Published Apps (Google play store)
+## 💼 Published Apps
 
-| Project | Description | Link |
-|--------|------------- | ------------- |
-| randomMe | A simple app featuring motivational quotes, fun jokes, cat facts, and boredom-busting activities—perfect for staying inspired, happy, and entertained throughout the day. |  [App Link](https://play.google.com/store/apps/details?id=com.randomme) | 
-| Graceful | A simple offline multi-lingual app for reading quotes and jokes, writing and updating your good memories, and getting time-based personalized greetings—all stored locally on your device.| [App Link](https://play.google.com/store/apps/details?id=com.graceful) |
-| Tic-Tac-Toe Game | Tic Tac Toe XO is a free classic puzzle game (Noughts and Crosses/X and O) featuring local play, easy and medium bot modes, offline support, and fast performance.| [App Link](https://play.google.com/store/apps/details?id=com.tictactoepeelu) |
-| Hindi Shayari App| Find the best Hindi Shayari across all moods—romantic, sad, attitude, love, dard, maa, nafrat, judai, and more. Enjoy beautiful shayari for every emotion, from true love to heartfelt yaadein. | [App Link](https://play.google.com/store/apps/details?id=com.peelu.merishayari) |
+| Project | Description |
+|--------|------------- |
+| randomMe | A simple app featuring motivational quotes, fun jokes, cat facts, and boredom-busting activities—perfect for staying inspired, happy, and entertained throughout the day. |  
+| Graceful | A simple offline multi-lingual app for reading quotes and jokes, writing and updating your good memories, and getting time-based personalized greetings—all stored locally on your device.|
+| Tic-Tac-Toe Game | Tic Tac Toe XO is a free classic puzzle game (Noughts and Crosses/X and O) featuring local play, easy and medium bot modes, offline support, and fast performance.|
+| Hindi Shayari App| Find the best Hindi Shayari across all moods—romantic, sad, attitude, love, dard, maa, nafrat, judai, and more. Enjoy beautiful shayari for every emotion, from true love to heartfelt yaadein. |
 
 
 ---
