@@ -72,7 +72,7 @@ I’m an aspiring neuroscientist and interdisciplinary researcher with a unique 
 
 ---
 
-## 💼 Published Apps
+## 💼 Apps
 
 | Project | Description |
 |--------|------------- |
