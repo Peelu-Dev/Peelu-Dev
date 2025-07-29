@@ -10,8 +10,8 @@ I’m an aspiring neuroscientist and interdisciplinary researcher with a unique 
 
 ## 🎓 Education
 
-- 🎓 **M.A. Clinical Psychology** — DAVV, Indore (2023–2025) — *82.1%*  
-- 💻 **B.C.A. Computer Applications** — MMYVV, Jabalpur (2020–2023) — *74.1%*
+- 🎓 **M.A. Clinical Psychology** — DAVV, Indore (2023–2025) — *8.21 CGPA%*  
+- 💻 **B.C.A. Computer Applications** — MMYVV, Jabalpur (2020–2023) — *7.41 CGPA%*
 
 ---
 
